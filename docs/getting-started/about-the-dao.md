@@ -2,23 +2,27 @@
 sidebar_position: 1
 ---
 
-# What is a Developer DAO
+# About D_D
 
-Developer DAO is a builder owned and governance community.
+Developer DAO is a community first. A Social DAO that has brought together 1000s of new and existing builders in the ecosystem to _build web3 with frens_.
 
-A social space for builders, built by builders to help other all builders become better builders and build more cool projects.
+[Nader Dabit](https://twitter.com/dabit3) founded Developer DAO on a [YouTube Live Stream](https://www.youtube.com/watch?v=NcOQG4Cpbdk&t=5s) on 3rd September 2021. They launched the DAO as an experiment by forking the [Loot Project](https://www.lootproject.com/) and changing the metadata from in-game loot items to traits a Developer DAO might hold.
 
-### Our missions
+## Misson, Values & Goals
 
-Developer DAO exists to accelrate the educationa and impact of a new wave of web3 builders.
+Our first ever Governance was to [Ratify our mission, values and goals](https://snapshot.org/#/devdao.eth/proposal/QmdZQD8h28PiWwwsdJo5mD2DBdC7BvYzrktmbsMoP4AcP6).
 
-_Established in our first Snapshot Proposal - [Ratify our mission, values and goals](https://snapshot.org/#/devdao.eth/proposal/QmdZQD8h28PiWwwsdJo5mD2DBdC7BvYzrktmbsMoP4AcP6)_
+### Mission
 
-### Our values
+Developer DAO exists to accelerate the education and impact of a new wave of web3 builders.
+
+### Values
 
 #### Transparency
 
 Open source everything, conversations in public, document and share the journey
+
+### Goals
 
 ## Membership vs Access
 
