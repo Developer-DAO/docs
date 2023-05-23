@@ -4,8 +4,10 @@
  * work well for content-centric websites.
  */
 
-@import url("https://fonts.googleapis.com/css?family=Poppins")
-  /* You can override the default Infima variables here. */: root {
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+/* You can override the default Infima variables here. */
+:root  {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
