@@ -7,7 +7,7 @@ sidebar_position: 2
 
 As mention in [About D_D], the vast majority of the value and opportunity Developer DAO creates is provided in the open and free as public goods.
 
-That value is mostly delivered outside of discord via Twitter, YouTube, Substack and our Blog.
+That means most of the value for you is available outside of discord via Twitter, YouTube, Substack and our Blog.
 
 ## Connect with us
 
