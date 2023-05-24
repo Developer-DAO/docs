@@ -62,9 +62,24 @@ const config = {
         title: "Developer DAO Docs",
         logo: {
           alt: "Developer DAO Logo",
-          src: "img/logo.svg",
+          src: "img/d-d-logo.svg",
         },
         items: [
+          {
+            href: "https://github.com/facebook/docusaurus",
+            label: "Twitter",
+            position: "right",
+          },
+          {
+            href: "https://github.com/facebook/docusaurus",
+            label: "Substack",
+            position: "right",
+          },
+          {
+            href: "https://github.com/facebook/docusaurus",
+            label: "Events",
+            position: "right",
+          },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
