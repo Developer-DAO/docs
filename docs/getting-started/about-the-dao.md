@@ -24,13 +24,13 @@ Developer DAO's [mission](https://snapshot.org/#/devdao.eth/proposal/QmdZQD8h28P
 
 We've broken this mission down into 4 pillars: Vibe, Learn, Build & Govern:
 
-1. 😎 **Vibe**: Twitter Spaces, IRL events, Community Hangouts, Town Halls
+1. 😎 **Vibe**: Twitter Spaces, IRL events, Community Hangouts, Town Halls.
 
-2. 🧠 **Learn**: Articles, Workshops, Academy Courses, Peer-to-peer Learning
+2. 🧠 **Learn**: Articles, Workshops, Academy Courses, Peer-to-peer Learning.
 
-3. 🏗️ **Build**: Hackathons, Agency Work, Fellowship programs, Jobs
+3. 🏗️ **Build**: Hackathons, Agency Work, Fellowship programs, Jobs.
 
-4. 👩🏽‍⚖️ **Govern**: A token that empowers Members to Govern the DAO and it's treasury.
+4. 👩🏽‍⚖️ **Govern**: Propose, debate and vote on ideas and budget allocations.
 
 The vast majority of the value the DAO creates is provided as public goods. That means, Members and non-members are like have equal access and one persons use doesn't impact anothers.
 
