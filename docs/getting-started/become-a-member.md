@@ -13,8 +13,12 @@ The main benefit of being a Members is so you can help Govern the DAO. This mean
 
 ### Purchase
 
+Add guide on how to purcahse code on opensea or via Guild.xyz
+
 ### Earn
+
+Add info on opportunities to earn CODE.
 
 ### Scholarship
 
-Access, on the otherhand, is variable depending on what you seek access to. The learning materials, workshops, events and hackathons we promote are mostly free to all as a public good (as they should be!). Certain other things, such as discord and voting require holding the $CODE token or NFT.
+Add info on DDW managed scholarship.
