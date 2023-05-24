@@ -7,9 +7,11 @@ sidebar_position: 2
 
 As mention in [About D_D], the vast majority of the value and opportunity Developer DAO creates is provided in the open and free as public goods.
 
+That value is mostly delivered outside of discord via Twitter, YouTube, Substack and our Blog.
+
 ## Connect with us
 
-That value is mostly delivered outside of discord via Twitter, YouTube, Substack and our Blog. The best way to take advantage of the opportunity provided is to connect with us there:
+The best way to take advantage of the opportunity provided is to connect with us there:
 
 1. Follow us on [Twitter](https://twitter.com/developer_dao).
 2. Sign-up for [workshops and event notifications](https://lu.ma/developer-dao).
