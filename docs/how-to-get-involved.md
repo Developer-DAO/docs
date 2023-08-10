@@ -22,12 +22,16 @@ By connecting with us here you'll be notified of all the awesome opportunities f
 
 ## Access to Discord
 
-:::tip
-The DAO is not Discord. You can access most of what we do for free outside of Discord.
-:::
+Discord access is currently gated to Members who hold over 400 CODE tokens or anyone who holds the original D4R NFT.
 
-Discord access is currently gated to Members who hold over 400 CODE tokens or anyone who holds the original D4R NFT. If you don't hold either of these just don't free, check out How to Become a Member.
+Access to discord means vibes, networking, peer to peer learning, gated events, contributing to the DAO via Sub-DAOs and much more. There are many folks who attest to the community activing as a great place to make friends and a launch pad for their career.
+
+If you want to join the discord, the easiest way is to purchase the NFT on either [Opensea](https://opensea.io/collection/devs-for-revolution) and [LooksRare](https://looksrare.org/collections/0x25ed58c027921E14D86380eA2646E3a1B5C55A8b?queryID=59b7ab0de32710bb2a3a8d6db055e10d).
+
+NB the NFT does not give you voting rights on Snapshot - all governance sits with the CODE token.
+
+If you don't hold either of these just don't fret. You can get involved in hackathons, events, workshops and more.
 
 ## Get Stuck in
 
-Once you're connected feel free to search through our Blog for helpful content, our YouTube workshop playlist for deep dives and tutorials or keep an eye on on Twitter for announcements of new Hackathons.
+Once you're connected feel free to search through our Blog for helpful content, our YouTube workshop playlist for deep dives and tutorials or keep an eye on on Twitter for announcements of new Hackathons, workshops and events.
