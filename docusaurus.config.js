@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: "Docs",
-                to: "/",
+                to: "docs.developerdao.com",
               },
             ],
           },
@@ -103,16 +103,17 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Twitter",
+                href: "https://twitter.com/developer_dao/",
+              },
+
+              {
+                label: "Newsletter",
+                href: "https://developerdao.substack.com/",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://guild.xyz/dd",
               },
             ],
           },
@@ -121,7 +122,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/Developer-DAO",
               },
             ],
           },
