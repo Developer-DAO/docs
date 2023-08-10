@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: "Docs",
-                to: "docs.developerdao.com",
+                to: "https://docs.developerdao.com",
               },
             ],
           },

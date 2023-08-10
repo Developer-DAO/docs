@@ -1,5 +1,6 @@
 ---
-title: "About D_D"
+slug: /
+title: "What is Developer DAO"
 sidebar_position: 1
 description: An overview of Developer DAO's history, mission and purpose.
 ---
@@ -9,6 +10,14 @@ description: An overview of Developer DAO's history, mission and purpose.
 :::info
 Developer DAO is a developer owned and governed community.
 :::
+
+Welcome to the Developer DAO.
+
+Here you'll find the the links and resources you need to get started. Developer DAO is a oublic good and most of the value we create is free and open to everyone.
+
+If you're not a Member yet, this guide will still be very useful to you and can show you why you should, and how you can, become one.
+
+Lets get things started ...
 
 ## About Developer DAO
 
@@ -33,5 +42,3 @@ We've broken this mission down into 4 pillars: Vibe, Learn, Build & Govern:
 4. 👩🏽‍⚖️ **Govern**: Propose, debate and vote on ideas and budget allocations.
 
 The vast majority of the value the DAO creates is provided as public goods. That means, Members and non-members are like have equal access and one persons use doesn't impact anothers.
-
-something something link to how to get involved.
