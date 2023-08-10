@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-title: Become a member
+title: How to join the DAO
 ---
 
-# How to become a Member?
+# How to join the DAO
 
 A Member is anyone that holds at least 1 CODE token.
 
