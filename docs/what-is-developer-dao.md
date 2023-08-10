@@ -62,7 +62,7 @@ Discord access is currently gated to Members who hold over 400 CODE tokens or an
 
 Both tokens are available to purcahse on the open market:
 
-1.
+2.
 
 ### **What **
 
