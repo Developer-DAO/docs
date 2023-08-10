@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: "Docs",
-                to: "https://docs-one-pi.vercel.app/",
+                to: "docs.developerdao.com",
               },
             ],
           },
