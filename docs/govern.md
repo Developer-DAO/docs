@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Govern
 
-Developer is a Developer Owned and Governaned community.
+Developer DAO is a Developer Owned and Governed community.
 
 Members of the DAO are able to exercise their Governance rights by submitting proposal through our Developer DAO Improvement Proposal [DDIP] process.
 

@@ -7,7 +7,7 @@ title: Become a member
 
 A Member is anyone that holds at least 1 CODE token.
 
-The main benefit of being a Members is so you can help Govern the DAO. This means participating in the DAO's Governance process to help shape it's future and how we allocate our shared resources.
+The main benefit of being a Member is that you can help Govern the DAO. This means participating in the DAO's Governance process to help shape its future and how we allocate our shared resources.
 
 :::tip
 If you don't hold the $CODE token don't worry, most of the DAO's value is open and free as a public good. Check out [How to get involved](/getting-started/how-to-get-involved).
@@ -17,7 +17,7 @@ If you don't hold the $CODE token don't worry, most of the DAO's value is open a
 
 ### Purchase
 
-Add guide on how to purcahse code on opensea or via Guild.xyz
+Add guide on how to purchase code on opensea or via Guild.xyz
 
 ### Earn
 
