@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # How to get involved
 
-As mention in [About D_D], the vast majority of the value and opportunity Developer DAO creates is provided in the open and free as public goods.
+As mentioned in [About D_D], the vast majority of the value and opportunity Developer DAO creates is provided in the open and free as public goods.
 
 That means most of the value for you is available outside of discord via Twitter, YouTube, Substack and our Blog.
 
@@ -20,7 +20,7 @@ The best way to take advantage of the opportunity provided is to connect with us
 
 By connecting with us here you'll be notified of all the awesome opportunities for learning and building, as well as the amazing things others in the community are doing.
 
-Once you've done that, check out our opportunites to Vibe, Learn, Build and Ship.
+Once you've done that, check out our opportunities to Vibe, Learn, Build and Ship.
 
 ## Access to Discord
 
